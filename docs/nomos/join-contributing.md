@@ -6,9 +6,9 @@ sidebar_position: 1
 
 ---
 
-Prepare for the event 1. Have a Stoicwallet wallet account and an ICP balance
+Prepare for the event: Have a Stoicwallet account with sufficient ICP balance.
 
-## The first step
+## Step 1
 
 Visit NnsDAO's nomos platform, [https://h637e-ziaaa-aaaaj-aaeaa-cai.raw.ic0.app/](https://h637e-ziaaa-aaaaj-aaeaa-cai.raw.ic0.app/), click Sign Up for authorization, and select Stoicwallet wallet to log in.
 
@@ -18,7 +18,7 @@ Once you have successfully signed in, check the canister contract address and cl
 
 ![nnsdao distribution](https://docs.nnsdao.org/img/media/16399827703798/16399833147804.jpg)
 
-### Step 2
+## Step 2
 
 Visit the [Stoicwallet wallet address](https://www.stoicwallet.com/) and log in to do the following.
 
@@ -32,7 +32,7 @@ After successful transfer, click the + button, select ADD Token, enter Canister 
 
 ![nnsdao distribution](https://docs.nnsdao.org/img/media/16399827703798/16399914610160.jpg)
 
-### Step 3
+## Step 3
 
 After successfully adding Token ID and Canister contract, go back to nomos platform of NnsDAO and click Wallet button to enter the wallet page.
 
