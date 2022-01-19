@@ -10,7 +10,6 @@ NnsDAO is the boundaryless autonomous organization, it is based on Dfinity to bu
 
 ## Representative products
 
-
 ```
 icpscan
 
@@ -30,7 +29,7 @@ icpodcast
 
 NnsDAO Protocol (hereinafter referred to as NDP) is the governance token of NnsDAO Protocol.
 
-According to Token's classification, a governance token is a Token with governance and dividend interests. The NDP Token is a utility token that will be released through contribution, and the governance of the protocol is ultimately shared between the ecological reputation system and the Token. Specifically, the NDP Token provides a process specification for DAOs where the protocol can be used for functions such as proposals, governance, and transactions with NDP. 
+According to Token's classification, a governance token is a Token with governance and dividend interests. The NDP Token is a utility token that will be released through contribution, and the governance of the protocol is ultimately shared between the ecological reputation system and the Token. Specifically, the NDP Token provides a process specification for DAOs where the protocol can be used for functions such as proposals, governance, and transactions with NDP.
 
 Reputation is an irreplaceable token (NFT) that refers to the influence that a virtual entity has in the IC ecosystem. The virtual reputation system enables functions such as lending, trading, collateral, and governance in different scenarios, and each reputation corresponds to NFT like in the process of generation and is used to judge the value of an entity in the virtual world.
 
@@ -38,7 +37,7 @@ Reputation is an irreplaceable token (NFT) that refers to the influence that a v
 
 100 million NDP tokens were minted at Genesis, and the tokens were mainly divided among contributors, sponsors, first sales, teams, and moon landing programs for the following distributions:
 
-----
+![NDP token eco](https://docs.nnsdao.org/img/media/16399827703798/16422448349247.jpg)
 
 ## Staking and voting
 
