@@ -32,7 +32,7 @@ from NnsDAO Labs
 
 If you fit the airdrop grid, congratulations, you can see the above information in the email.
 
-If you are on the airdrop list but did not receive the email, please provide feedback after the airdrop ends this week and we will fully distribute it next week. Due to the high number of feedback and mail rejection problems, please describe the problem in detail when giving feedback and we will deal with it as soon as possible.
+If you are on the airdrop list but did not receive an email, please send an email directly for feedback and we will address it next week. Due to the high number of feedback and email rejection issues, please describe the problem in detail when giving feedback and we will deal with it as soon as possible.
 
 ## II. Airdrop pickup guide
 
@@ -50,6 +50,8 @@ Go to the wallet page and click on the airdrops button
 
 Enter your email and the Airdrop redemption code you received in the email in the input box of the pop-up window and click claim the airdrop.
 
+![nnsdao Airdrop](https://docs.nnsdao.org/img/media/16422297004097/16422440370780.jpg)
+
 **Step 3**
 
 Click the claim button and wait for the block to sync and issue the NDP. You will see the balance increase after the pop-up window closes.
@@ -60,7 +62,7 @@ Click the claim button and wait for the block to sync and issue the NDP. You wil
 
 ![nnsdao Airdrop](https://docs.nnsdao.org/img/media/16422297004097/share.png)
 
-After clicking on claim airdrop, we have added a sharing benefit, you can share it by clicking on the Twitter icon, and you will be rewarded with a certain number of NDPs officially given by NnsDAO after successful sharing.
+After claiming the airdrop, we added a sharing benefit, you can share it by clicking the twitter icon, share and @dfinity @dominic_w @ICPSwap, after successful sharing, you will get a certain amount of NDP reward from NnsDAO official.
 
 Note that the number of NDPs given away in this sharing activity is limited, so act fast.
 
