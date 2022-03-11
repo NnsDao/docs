@@ -22,6 +22,12 @@ About the pass-through economic model of NDP, and the usage scenarios of holding
 
 About how to use Nomos for building your own DAOs and how to find your own organization (union) through DAOn, collide more ideas through communication, brainstorming and other fragmented exchanges, and collaborate to build more dApps.
 
+## Marketplace
+
+What is ICmarket?
+
+ICmarket is a 「diversified」 「tradable」platform for NFTs, which provides user-directed creation and collaboration. It also provides subDAO to join and create the common collections and collaborative NFTs.
+
 ## Join Our Community
 
 - [Discord Server](https://discord.gg/UTZvcDkeDr)
