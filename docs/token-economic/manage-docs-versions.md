@@ -37,7 +37,7 @@ Reputation is an irreplaceable token (NFT) that refers to the influence that a v
 
 100 million NDP tokens were minted at Genesis, and the tokens were mainly divided among contributors, sponsors, first sales, teams, and moon landing programs for the following distributions:
 
-![NDP token eco](https://docs.nnsdao.org/img/media/16399827703798/16422448349247.jpg)
+![NDP token eco](https://docs.nnsdao.org/img/media/16399827703798/16422448349247.png)
 
 ## Staking and voting
 
