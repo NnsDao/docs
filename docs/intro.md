@@ -6,7 +6,11 @@ sidebar_position: 1
 
 The boundaryless autonomous organization.
 
-Read the whitepaper [NnsDAO white paper](https://github.com/NnsDao/nnsdao-org/blob/main/static/NnsDAO_Boundaryless_Autonomous_Organization.pdf)
+Read the whitepaper English [NnsDAO white paper](https://github.com/NnsDao/nnsdao-org/blob/main/static/NnsDAO_Boundaryless_Autonomous_Organization.pdf)
+
+Read the White Paper Japanese [NnsDAO white paper](https://syunduel.medium.com/nnsdao-whitepaper-japanese-translation-922c47e3840b)
+
+Read the White Paper Chinese [NnsDAO white paper](https://github.com/demianDAO/internetcomputer.guide/blob/main/static/whitepaper/NnsDAO_Boundaryless_Autonomous_Organization_kkdemian.pdf)
 
 Read the contribution process [Contribution to earn](https://github.com/NnsDao/nnsdao-org/blob/main/static/NnsDAO_DAOs_To_Earn.pdf)
 
@@ -16,7 +20,7 @@ By building the science of DAO with the community and making it available to mor
 
 ## Token Economic
 
-About the pass-through economic model of NDP, and the usage scenarios of holding NDP, etc.
+About the pass-through economic model of [NDP](https://app.icpswap.com/swap), and the usage scenarios of holding NDP, etc.
 
 ## Use NnsDAO Nomos
 
