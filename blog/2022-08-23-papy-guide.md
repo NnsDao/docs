@@ -46,7 +46,9 @@ Secondly, there are the settings on the right hand side, with the following func
 
 After logging in and authorizing, click setting, and after setting your personal information, click submit.
 
-After setting, click submit. [profile-setting](https://docs.nnsdao.org/img/media/16612528954920/profile-setting.png)
+After setting, click submit.
+
+![profile-setting](https://docs.nnsdao.org/img/media/16612528954920/profile-setting.png)
 
 Through the above guide, we understand how to write articles and set personal information, as well as understand the different functional areas, so that we can write more quickly.
 
