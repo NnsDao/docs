@@ -14,7 +14,7 @@ Lottery sample application using ICP in canisters and randomness.
 
 ## Draw to earn
 
-[Play Dlotto dApp Beta](https://qn6vq-eiaaa-aaaag-aaccq-cai.raw.ic0.app/)
+[Play Dlotto dApp Beta](https://ycr3g-2yaaa-aaaah-abq7q-cai.raw.ic0.app/)
 
 ## Game Rules
 
